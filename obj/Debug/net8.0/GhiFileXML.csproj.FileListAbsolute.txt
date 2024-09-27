@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\ThucHanh\GhiFileXML\bin\Debug\net8.0\GhiFileXML.exe
+C:\Users\pc\Desktop\Module1\ThucHanh\GhiFileXML\bin\Debug\net8.0\GhiFileXML.deps.json
+C:\Users\pc\Desktop\Module1\ThucHanh\GhiFileXML\bin\Debug\net8.0\GhiFileXML.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\ThucHanh\GhiFileXML\bin\Debug\net8.0\GhiFileXML.dll
+C:\Users\pc\Desktop\Module1\ThucHanh\GhiFileXML\bin\Debug\net8.0\GhiFileXML.pdb
+C:\Users\pc\Desktop\Module1\ThucHanh\GhiFileXML\obj\Debug\net8.0\GhiFileXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\ThucHanh\GhiFileXML\obj\Debug\net8.0\GhiFileXML.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\ThucHanh\GhiFileXML\obj\Debug\net8.0\GhiFileXML.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\ThucHanh\GhiFileXML\obj\Debug\net8.0\GhiFileXML.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\ThucHanh\GhiFileXML\obj\Debug\net8.0\GhiFileXML.sourcelink.json
+C:\Users\pc\Desktop\Module1\ThucHanh\GhiFileXML\obj\Debug\net8.0\GhiFileXML.dll
+C:\Users\pc\Desktop\Module1\ThucHanh\GhiFileXML\obj\Debug\net8.0\refint\GhiFileXML.dll
+C:\Users\pc\Desktop\Module1\ThucHanh\GhiFileXML\obj\Debug\net8.0\GhiFileXML.pdb
+C:\Users\pc\Desktop\Module1\ThucHanh\GhiFileXML\obj\Debug\net8.0\GhiFileXML.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\ThucHanh\GhiFileXML\obj\Debug\net8.0\ref\GhiFileXML.dll
